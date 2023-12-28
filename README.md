@@ -1,6 +1,8 @@
 # Cervical Screening Self-Book with Accurx
 `Brompton Health PCN`<BR><BR>
-**The introduction of SMS interventions at participating practices appears to have correlated with an immediate spike in cervical screenings, suggesting an effective strategy for increasing health engagement, though further analysis is necessary to confirm long-term efficacy and causation.**
+
+**The introduction of SMS interventions at participating practices appears to have correlated with an immediate spike in cervical screenings, suggesting an effective strategy for increasing health engagement, though further analysis is necessary to confirm long-term efficacy and causation.**<BR><BR>
+[Full Analysis here](CxScreeningTimeSeries.ipynb)<BR><BR>
 
 Interpreting the plots, it appears to show two key data trends over time: the number of female registrations aged 24-64 years and the monthly cervical screening count at participating practices. The vertical dashed red line indicates the start of an intervention using SMS (text messaging), which began on October 12, 2023. for ECS and Nov,1 2023 for the TCP and SMW.
 
