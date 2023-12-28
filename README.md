@@ -14,6 +14,10 @@ Interpreting the plots, it appears to show two key data trends over time: the nu
 It’s important to note that while the immediate increase in screenings after the start of the SMS intervention suggests a correlation, further analysis would be required to establish causation. This would include looking at longer-term trends, ruling out other factors that might have influenced the spike, and potentially comparing with a control group.
 
 Additionally, the sharp decline in screenings right after the peak might indicate that while the SMS intervention had an initial impact, its effect may not have been sustained over time, or it could be due to other factors not visible on this graph, such as seasonal variations or operational issues at the practice. A careful examination of the full context of the data and additional data points beyond the scope of this graph would be needed for a comprehensive understanding.
+
+
+![OUtcome](https://github.com/janduplessis883/Cervical-Screening-Self-Book-with-Accurx/blob/main/images/Cervical%20Screening%20Outcome.png?raw=true)
+
 ### Post Intervention Patient Survey
 We care currently collecting patient feedback to aid furhter analysis.<BR>
 [Patient Survery Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSc_iWioKWfGq01BLFWX47sINgZhDGwaspM3yo0ewbQUES3FMw/viewform)
