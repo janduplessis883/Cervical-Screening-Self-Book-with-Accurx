@@ -13,7 +13,7 @@ Interpreting the plots, it appears to show two key data trends over time: the nu
 
 **After the Intervention:** There is a significant spike in the number of cervical screenings in the month following the start of the SMS intervention, indicating a potential positive impact of the SMS reminders on the uptake of cervical smear tests. This peak is the highest point on the graph for the monthly cervical screening count, suggesting that the SMS intervention might have been effective in encouraging more women to undergo screening.
 
-**Statistical Summary:** The mean monthly cervical screening rate before the intervention is noted as 29.58, and the mean monthly registrations for females in the cervical screening age group is 17.12. The mean difference of 12.46 could reflect the average gap between registrations and screenings conducted each month.
+**Statistical Summary**: The mean monthly cervical screening rate before the intervention is noted as 111.58, and the mean monthly registrations for females in the cervical screening age group is 88.11. The mean difference of 23.47 could reflect the average gap between registrations and screenings conducted each month.
 
 It’s important to note that while the **immediate increase in screenings after the start of the SMS intervention suggests a correlation, further analysis would be required to establish causation.** This would include looking at longer-term trends, ruling out other factors that might have influenced the spike, and potentially comparing with a control group.
 
