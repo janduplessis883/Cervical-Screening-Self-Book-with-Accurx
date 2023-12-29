@@ -1,7 +1,7 @@
 # **Cervical Screening Self-Book with Accurx**
 `Brompton Health PCN`
 
-### The introduction of SMS interventions at participating practices appears to have correlated with an **immediate spike in cervical screenings**, suggesting an effective strategy for increasing health engagement, though further analysis is necessary to **confirm long-term efficacy and causation**.
+### The introduction of SMS self-book interventions at participating practices appears to have correlated with an **immediate spike in cervical screenings**, suggesting an effective strategy for increasing health engagement, though further analysis is necessary to **confirm long-term efficacy and causation**.
 
 ## **The SMS Self-Book Campaign**
 The SMS Self-Book Campaign, implemented by three GP practices under Brompton Health Primary Care Network (PCN) utilizing the Accrux messaging platform, represents a significant stride towards enhancing cervical screening rates in general practice. This innovative approach aimed to explore the potential impact of direct SMS communication on the participation rate in cervical screenings. Patients eligible for screening received an initial SMS, meticulously crafted to inform and reassure them about the nature and frequency of the messages. This step was crucial in establishing trust and clarity right from the onset. Subsequently, the campaign leveraged the Accrux Self-book platform, making all nurse appointments accessible for direct booking. This seamless integration of technology into routine healthcare practice signifies a modern approach to patient engagement, resonating with the increasingly digital-centric lifestyle of many patients.
