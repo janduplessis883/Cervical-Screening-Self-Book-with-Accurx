@@ -8,7 +8,7 @@ Interpreting the plots, it appears to show two key data trends over time: the nu
 [See Notebook](CxScreeningTimeSeries.ipynb)
 
 ## Here's what we can discern from the charts:
-![Show Chart]()
+![Show Chart](https://github.com/janduplessis883/Cervical-Screening-Self-Book-with-Accurx/blob/main/images/Cervical%20Screening%20Outcome.png?raw=true)
 **Before the Intervention:** Prior to the SMS intervention, there is a fluctuating but generally consistent gap between female registrations and the number of cervical screenings. This suggests a variance in the uptake of cervical smear tests among those registered.
 
 **After the Intervention:** There is a significant spike in the number of cervical screenings in the month following the start of the SMS intervention, indicating a potential positive impact of the SMS reminders on the uptake of cervical smear tests. This peak is the highest point on the graph for the monthly cervical screening count, suggesting that the SMS intervention might have been effective in encouraging more women to undergo screening.
