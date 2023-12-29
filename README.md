@@ -18,6 +18,20 @@ Interpreting the plots, it appears to show two key data trends over time: the nu
 It’s important to note that while the **immediate increase in screenings after the start of the SMS intervention suggests a correlation, further analysis would be required to establish causation.** This would include looking at longer-term trends, ruling out other factors that might have influenced the spike, and potentially comparing with a control group.
 
 Additionally, the sharp decline in screenings right after the peak might indicate that while the SMS intervention had an initial impact, its effect may not have been sustained over time, or it could be due to other factors not visible on this graph, such as seasonal variations or operational issues at the practice. A careful examination of the full context of the data and additional data points beyond the scope of this graph would be needed for a comprehensive understanding.
+## **General Observations**
+There are seasonal trends or patterns in the data which could correspond to specific health campaigns or periodic health check-ups.
+The spikes in the Chelsea Practice and Stanhope Mews West graphs may require investigation to understand their cause.
+
+
+The "Effectiveness of Screening Program" might be a calculated metric to assess how many more screenings are performed compared to new registrations, potentially indicating the reach or success of the screening program.
+
+## Data Interpretation Considerations
+The time series data might need further analysis to understand the context of the peaks and troughs fully.
+
+It would be important to consider external factors that could influence these numbers, such as public health initiatives, changes in policy, or even external events like pandemics.
+
+Understanding the goal of the screening program is crucial in interpreting these figures. For instance, if the objective is early detection, higher screening rates compared to new registrations could be a positive indicator.
+
 ## **Post Intervention Patient Survey**
 We care currently collecting patient feedback to aid furhter analysis.<BR>
 [Patient Survery Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSc_iWioKWfGq01BLFWX47sINgZhDGwaspM3yo0ewbQUES3FMw/viewform)
