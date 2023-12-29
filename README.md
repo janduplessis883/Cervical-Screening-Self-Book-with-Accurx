@@ -3,12 +3,19 @@
 
 ### The introduction of SMS interventions at participating practices appears to have correlated with an **immediate spike in cervical screenings**, suggesting an effective strategy for increasing health engagement, though further analysis is necessary to **confirm long-term efficacy and causation**.
 
+## **The SMS Self-Book Campaign**
+The SMS Self-Book Campaign, implemented by three GP practices under Brompton Health Primary Care Network (PCN) utilizing the Accrux messaging platform, represents a significant stride towards enhancing cervical screening rates in general practice. This innovative approach aimed to explore the potential impact of direct SMS communication on the participation rate in cervical screenings. Patients eligible for screening received an initial SMS, meticulously crafted to inform and reassure them about the nature and frequency of the messages. This step was crucial in establishing trust and clarity right from the onset. Subsequently, the campaign leveraged the Accrux Self-book platform, making all nurse appointments accessible for direct booking. This seamless integration of technology into routine healthcare practice signifies a modern approach to patient engagement, resonating with the increasingly digital-centric lifestyle of many patients.
+
+A notable feature of this campaign was the frequency and timing of the SMS invitations. Patients received weekly invitations, a strategic decision aligning with the one-week validity of Accrux invitations. This consistency ensured that patients always had a current and actionable opportunity to schedule their screening, thereby reducing barriers to access and participation. Such an approach not only empowered patients to manage their health proactively but also accommodated diverse schedules and life circumstances. The campaign culminated with a patient survey, an insightful tool aimed at gathering feedback to refine future initiatives. This emphasis on patient feedback underscores the PCN’s commitment to patient-centered care, where the experiences and inputs of patients are pivotal in shaping healthcare services. This campaign not only aimed at increasing immediate screening rates but also at establishing a foundation for sustained patient engagement and proactive health management, potentially setting a new standard for public health campaigns in general practice.
+
+## **Here's what we can discern from the charts**:
+[See Notebook](CxScreeningTimeSeries.ipynb)<BR><BR>
 Interpreting the plots, it appears to show two key data trends over time: the number of female registrations aged 24-64 years and the monthly cervical screening count at participating practices. The vertical dashed red line indicates the start of an intervention using SMS (text messaging), which began on October 12, 2023. for ECS and Nov,1 2023 for the TCP and SMW.
 
-[See Notebook](CxScreeningTimeSeries.ipynb)
+Interpreting the plots, it appears to show two key data trends over time: the number of female registrations aged 24-64 years and the monthly cervical screening count at participating practices. The vertical dashed red line indicates the start of an intervention using SMS (text messaging), which began on October 12, 2023. for ECS and Nov,1 2023 for the TCP and SMW.
 
-## Here's what we can discern from the charts:
 ![Show Chart](https://github.com/janduplessis883/Cervical-Screening-Self-Book-with-Accurx/blob/main/images/Cervical%20Screening%20Outcome.png?raw=true)
+
 **Before the Intervention:** Prior to the SMS intervention, there is a fluctuating but generally consistent gap between female registrations and the number of cervical screenings. This suggests a variance in the uptake of cervical smear tests among those registered.
 
 **After the Intervention:** There is a significant spike in the number of cervical screenings in the month following the start of the SMS intervention, indicating a potential positive impact of the SMS reminders on the uptake of cervical smear tests. This peak is the highest point on the graph for the monthly cervical screening count, suggesting that the SMS intervention might have been effective in encouraging more women to undergo screening.
